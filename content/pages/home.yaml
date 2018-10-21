@@ -1,25 +1,13 @@
-$title: Home
+$title: April MacDonald
 $path: /{root}/
 $order: -1
-description: A basic Grow demo website.
+description: April MacDonald
 
 composite_files:
 - home
 
 partials:
-- partial: hero
-  title: Welcome to your website
-  subtitle: >-
-      This is a basic demonstration that shows how to use Grow to build a few
-      pages. What you see on this site is entirely controlled by the union of
-      content files and template files. Content is kept separate from
-      presentation. Some of the pages use YAML and partial templates, other
-      pages just use Markdown. Try exploring.
-  cta:
-    title: Learn about us
-    url: !g.url "/content/pages/about.md"
-- partial: hero
-  title: Grow your site
-  subtitle: >-
-      Partials are a great way to grow your site and use reusable parts across
-      pages.
+- partial: header
+  name: April MacDonald
+  phone_number: 905-730-0887
+  email: aprilamacdonald@gmail.com
