@@ -47,7 +47,7 @@ partials:
         - Assigned tasks to appropriate teams to ensure smooth running promotions.
         - Maintained and scheduled all promotional air-time, prizing, and online databases for both stations.
         - Assisted in training of new Promotion Assistants.
-
+- partial: line
 - partial: list
   section_header: Skills
   list_items:
@@ -60,6 +60,7 @@ partials:
     - Event Planning
     - Adobe Tools
     - Brand Development & Management
+- partial: line
 
 - partial: education
   section_header: Education
@@ -73,3 +74,4 @@ partials:
 
 - partial: footer
   linkedin: "@aprilamacdonald"
+
