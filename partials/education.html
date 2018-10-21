@@ -1,0 +1,11 @@
+<div>
+    <h2>{{partial.section_header}}</h2>
+
+                <h3>{{partial.institution}} - {{partial.location}}</h3>
+                <ul>
+                    {% for bullet_point in partial.bullet_points %}
+                    <li>{{bullet_point}}</li>
+                    {% endfor %}
+                </ul>
+
+</div>

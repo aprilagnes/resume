@@ -13,7 +13,7 @@ partials:
   email: aprilamacdonald@gmail.com
 
 - partial: jobs
-  section_header: experience
+  section_header: Experience
   jobs:
     - company: Durham Radio Inc.
       location: Hamilton, ON
@@ -60,17 +60,13 @@ partials:
     - Adobe Tools
     - Brand Development & Management
 
- - partial: list
-   section_header: Education
-   list_items:
-     - HTML/CSS
-     - Customer Relations
-     - E-mail & Direct Marketing Tools
-     - Power Point Presentation
-     - Social & New Media
-     - Graphic Design
-     - Event Planning
-     - Adobe Tools
-     - Brand Development & Management
+- partial: education
+  section_header: Education
+  institution: Simon Fraser University
+  location: Burnaby, BC
+  bullet_points:
+    - BA Communications - Faculty of Communications Arts & Technology
+    - Minor in Interactive Arts & Technology
+    - Communications Co-op Certificate
 
 
