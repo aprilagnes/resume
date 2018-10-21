@@ -3,15 +3,11 @@ $path: /{root}/
 $order: -1
 description: April MacDonald
 
-composite_files:
-- home
-
 partials:
 - partial: header
   name: APRIL MACDONALD
   phone_number: 905-730-0887
   email: aprilamacdonald@gmail.com
-
 
 - partial: jobs
   section_header: Experience
@@ -70,7 +66,6 @@ partials:
     - BA Communications - Faculty of Communications Arts & Technology
     - Minor in Interactive Arts & Technology
     - Communications Co-op Certificate
-
 
 - partial: footer
   linkedin: "@aprilamacdonald"

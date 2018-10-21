@@ -12,11 +12,14 @@ body
 
 .wrapper
   background: #ffffff
-  max-width: 1036px
+  max-width: 1024px
   margin: 0 auto
   display: flex
   flex-direction: column
-
+  max-height: 1024px * 11 / 8.5
+  width: 100vw
+  height: 100vw * 11 / 8.5
+  justify-content: space-between
 
 .header,
 .footer
@@ -28,25 +31,16 @@ body
   padding: 32px
   padding-top: 45px
 
-
-.header
-  margin-bottom: 34px
-
   h1
     color: #81C3D7
     font-size: 52px
     padding-bottom: 32px
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif
     letter-spacing: 8px
 
-.footer
-  margin-top: 34px
-
 .content
-
-  padding-left: 88px
-  padding-right: 88px
-  font-type: roboto
+  padding-left: 32px
+  padding-right: 32px
 
 a
   color: inherit
@@ -59,23 +53,20 @@ a
 
 h2
   font-size: 24px
-  padding-bottom: 24px
+  margin-bottom: 16px
   text-transform: uppercase
-  padding-top: 23px
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif
 
 h3
   font-size: 19px
   font-weight: bold
-
+  margin-top: 16px
 
 h4
   font-size: 19px
   padding-bottom: 4px
 
-
 ul
-  padding-bottom: 16px
   list-style: circle
   margin-left: 16px
 
@@ -88,7 +79,7 @@ ul
 hr
   height: 1px
   width: calc(100% - 176px)
-  margin: 16px auto
+  margin: 0 auto
   border: 0
   background: #16425B
 
