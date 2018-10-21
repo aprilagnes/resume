@@ -11,3 +11,66 @@ partials:
   name: April MacDonald
   phone_number: 905-730-0887
   email: aprilamacdonald@gmail.com
+
+- partial: jobs
+  section_header: experience
+  jobs:
+    - company: Durham Radio Inc.
+      location: Hamilton, ON
+      title: Promotions Coordinator
+      date: June 2017 - Present
+      bullet_points:
+        - Develop contests and promotions for KX 94.7, 92.9 The Grand and Wave.fm.
+        - Preserve brand integrity by monitoring the consistency and quality of marketing content.
+        - Create effective messaging using language, graphics and marketing collateral.
+        - Draft and manage online and social media communications designed to promote company brand.
+        - Coordinate and participate in promotional activities.
+        - Manage and schedule staff to ensure successful station events.
+    - company: Advisor Websites
+      location: Vancouver, BC
+      title: Project Manager
+      date: November 2014 - June 2017
+      bullet_points:
+        - Directed all phases of website development projects, from client on-boarding to website launch.
+        - Set project timelines and kept teams on task to complete milestones according to schedule.
+        - Oversaw approx 200 projects at a time without sacrificing standards.
+        - Provided outstanding client service to maintain and extend the relationship for future opportunities.
+        - Conducted client meetings to determine project intent, requirements and budgets.
+    - company: Rogers Broadcasting
+      location: Abbostford, BC
+      title: Promotions Coordinator
+      date: October 2013 - November 2014
+      bullet_points:
+        - Collaborated as a team to plan, prepare for and execute all station promotions.
+        - Created and performed on-air scripts as necessary.
+        - Assigned tasks to appropriate teams to ensure smooth running promotions.
+        - Maintained and scheduled all promotional air-time, prizing, and online databases for both stations.
+        - Assisted in training of new Promotion Assistants.
+
+- partial: list
+  section_header: Skills
+  list_items:
+    - HTML/CSS
+    - Customer Relations
+    - E-mail & Direct Marketing Tools
+    - Power Point Presentation
+    - Social & New Media
+    - Graphic Design
+    - Event Planning
+    - Adobe Tools
+    - Brand Development & Management
+
+ - partial: list
+   section_header: Education
+   list_items:
+     - HTML/CSS
+     - Customer Relations
+     - E-mail & Direct Marketing Tools
+     - Power Point Presentation
+     - Social & New Media
+     - Graphic Design
+     - Event Planning
+     - Adobe Tools
+     - Brand Development & Management
+
+

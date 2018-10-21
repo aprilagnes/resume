@@ -1,0 +1,16 @@
+<div>
+    <h2>{{partial.section_header}}</h2>
+    <ol>
+        {% for job in partial.jobs %}
+            <li>
+                <h3>{{job.title}} - {{job.company}}</h3>
+                <h4>{{job.location}} - {{job.date}}</h4>
+                <ul>
+                    {% for bullet_point in job.bullet_points %}
+                    <li>{{bullet_point}}</li>
+                    {% endfor %}
+                </ul>
+            </li>
+        {% endfor %}
+    </ol>
+</div>
