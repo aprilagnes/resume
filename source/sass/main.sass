@@ -6,29 +6,47 @@ body
   background: $backgound-colour
   padding: 0
   margin: 0
+  font-family: 'Source Serif Pro', serif;
+  font-size: 16px
+  line-height: 24px
 
 
 .wrapper
   background: #ffffff
-  max-width: 1440px
+  max-width: 1036px
   margin: 0 auto
+  display: flex
+  flex-direction: column
 
-.header
+
+.header,
+.footer
   background: #16425B
   color: #ffffff
   text-align: center
   font-size: 19px
   line-height: 25px
   padding: 32px
+  padding-top: 45px
 
 
+.header
+  margin-bottom: 34px
 
   h1
     color: #81C3D7
-    font-size: 42px
+    font-size: 52px
     padding-bottom: 32px
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 8px
 
+.footer
+  margin-top: 34px
+.content
 
+  padding-left: 88px
+  padding-right: 88px
+  font-type: roboto
 
 a
   color: inherit
@@ -40,3 +58,29 @@ a
 
 
 h2
+  font-size: 24px
+  padding-bottom: 24px
+  text-transform: uppercase
+  padding-top: 23px
+  font-family: 'Roboto', sans-serif;
+
+h3
+  font-size: 19px
+  font-weight: bold
+
+
+h4
+  font-size: 19px
+  padding-bottom: 4px
+
+
+ul
+  padding-bottom: 16px
+  list-style: circle
+  margin-left: 16px
+
+.skills ul
+  display: flex
+  flex-wrap: wrap
+  li
+    width: 32%

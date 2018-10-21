@@ -8,9 +8,10 @@ composite_files:
 
 partials:
 - partial: header
-  name: April MacDonald
+  name: APRIL MACDONALD
   phone_number: 905-730-0887
   email: aprilamacdonald@gmail.com
+
 
 - partial: jobs
   section_header: Experience
@@ -70,3 +71,5 @@ partials:
     - Communications Co-op Certificate
 
 
+- partial: footer
+  linkedin: "@aprilamacdonald"
