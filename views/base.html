@@ -3,22 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-    {% if podspec.meta.google_site_verification %}
-    <meta name="google-site-verification" content="{{podspec.meta.google_site_verification}}">
-    {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, height=device-height">
-    <title>{% if doc.title %}{{doc.title}} - {% endif %}{{podspec.title}}</title>
-    <meta property="og:title" content="{% if doc.title %}{{doc.title}} - {% endif %}{{podspec.title}}">
-    <meta property="og:site_name" content="{{podspec.title}}">
+    <title>April MacDonald</title>
+    <meta property="og:title" content="April MacDonald">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{doc.url}}">
-    {% if doc.description %}
-    <meta name="description" content="{{doc.description}}">
-    <meta property="og:description" content="{{doc.description}}">
-    {% endif %}
-    {% if podspec.meta.favicon_path %}
-    <link rel="shortcut icon" href="{{g.static(podspec.meta.favicon_path).url.path}}">
-    {% endif %}
+    <meta name="description" content="Resume and personal site of April MacDonald">
+    <meta property="og:description" content="Resume and personal site of April MacDonald">
 
     <link href="https://fonts.googleapis.com/css?family=Roboto|Source+Serif+Pro" rel="stylesheet">
     <link href="{{ g.static('/dist/css/composite/main.min.css').url.path }}" rel="stylesheet">
