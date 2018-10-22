@@ -1,0 +1,9 @@
+<div class="paragraphs content">
+    {% for paragraph in partial.paragraphs %}
+        {% if paragraph.lines %}
+            <p>{{paragraph.lines|join('<br>')|safe}}</p>
+        {% else %}
+            <p>{{paragraph|safe}}</p>
+        {% endif %}
+    {% endfor %}
+</div>

@@ -1,0 +1,33 @@
+$title: April MacDonald
+$path: /{root}/cover-letter-sample # <--- CHANGE ME!!!!
+$order: -1
+description: April MacDonald
+
+partials:
+- partial: header
+  name: APRIL MACDONALD
+  phone_number: 905-730-0887
+  email: aprilamacdonald@gmail.com
+
+- partial: paragraphs
+  paragraphs:
+    - lines:
+      - <h1> REPLACE ME WITH DATE </h1> Oct 21st 2018
+      - To
+      - <h1> REPLACE ME WITH NAME </h1>
+      - <h1> REPLACE ME WITH TITLE </h1>
+      - <h1> REPLACE ME WITH ADDRESS LINE </h1>
+      - <h1> REPLACE ME WITH CITY PROVINCE </h1>
+      - <h1> REPLACE ME WITH POSTAL CODE</h1>
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt in lectus id rhoncus. Nulla facilisi. Sed vel est molestie, mollis mi malesuada, fermentum eros. Nam quis tellus vitae velit vehicula malesuada. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas imperdiet orci quis ex blandit, in ullamcorper risus porta. Aliquam erat volutpat. Phasellus non neque interdum, sollicitudin justo quis, ultrices dolor. Proin velit nunc, viverra et sollicitudin gravida, tempor at erat. Fusce ut lectus quis turpis volutpat venenatis quis ac sem. Proin vitae tempus velit, facilisis vulputate sapien. Nulla tempor lacinia est eget sodales. Mauris et varius eros, sit amet varius tortor. Curabitur ut massa rutrum, consequat tortor nec, mattis orci.
+    - Etiam et neque eget elit vulputate posuere. Pellentesque id neque dui. Quisque luctus euismod nisl quis aliquet. Ut consequat faucibus est, maximus aliquam velit ornare id. Vivamus ultricies libero eu feugiat laoreet. Nullam orci est, lobortis at blandit et, egestas a orci. Aliquam quis lacinia turpis. Praesent semper libero et blandit dictum.
+    - Proin vel ipsum vulputate nibh aliquam maximus at ac odio. Duis tempus massa sed dolor fringilla vehicula. Phasellus fermentum viverra mollis. Vestibulum sed est felis. Fusce in molestie justo, a molestie nibh. Aenean facilisis, nulla ac aliquet fringilla, magna justo laoreet lectus, et mattis ligula nisl vel quam. Fusce ullamcorper sem neque. Ut ut luctus felis, et molestie leo. Aenean quis mollis nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+    - Nulla eros tellus, commodo vitae turpis id, rutrum laoreet nibh. Etiam ut dolor id dolor sodales porta. Duis fermentum facilisis elementum. Cras egestas ante ac est blandit varius. Integer eu luctus tortor. Morbi in ultrices justo. In tincidunt, sem eu faucibus ornare, diam massa consequat lorem, ac accumsan diam quam sit amet dolor. Morbi sed fringilla sem, ac posuere nulla. Etiam ultricies non ipsum eu sodales.
+    - Sed pulvinar rutrum condimentum. Nam convallis, libero a lobortis vestibulum, nibh elit consectetur ex, quis rutrum quam lacus sed odio. Etiam pretium, dolor id fermentum gravida, velit neque tempus nisl, non convallis sapien purus congue risus. Sed fringilla in metus quis porta. Quisque imperdiet ipsum tempor ligula vestibulum fringilla. Aliquam sed bibendum nunc. In et mollis mi, sit amet lobortis velit. Vestibulum pretium metus lectus, in facilisis ligula vulputate id. Nam vitae ipsum eget leo feugiat commodo. Duis suscipit iaculis erat non maximus.
+    - lines:
+      - Sincerely,
+      - April MacDonald
+
+- partial: footer
+  linkedin: "@aprilamacdonald"
+
