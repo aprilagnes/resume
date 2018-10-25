@@ -1,0 +1,43 @@
+$title: April MacDonald
+$path: /{root}/cover-letter-hgs
+$order: -1
+description: April MacDonald
+
+wrapper_modifier: cover-letter
+
+partials:
+- partial: header
+  name: APRIL MACDONALD
+  phone_number: 905-730-0887
+  email: aprilamacdonald@gmail.com
+
+- partial: paragraphs
+  paragraphs:
+    - October 25th, 2018
+
+    - lines:
+        - Amanda Alexander
+        - Director of Advancement
+        - Halifax Grammar School
+        - 945 Tower Road
+        - Halifax, NS
+        - B3H 2Y2
+
+    - >-
+      RE:  EECMAT20181031 – CB
+
+    - Dear Amanda Alexander,
+
+    - I am excited to apply for the opportunity to be part of the Halifax Grammar School (HGS) team as the Events and Engagement Coordinator. I believe my experience coordinating and managing events, promotions and projects has given me the experience needed to excel at this position.
+    - My current role as a Promotions Coordinator requires me to adapt to a variety of roles to ensure our team runs successful promotions time and time again. Each day requires everything from triple checking the fine details on an online posting to meeting with clients, artists and our fans at a stadium sized concert. Creating detailed and easy to follow proposals that need to be perfect for the client is one small aspect of my work, but I believe that it highlights my ability to be meticulous while not losing sight of the larger picture. I vet each proposal through our sales and management team, resolving conflicts and ensuring clients fully understand what they will receive.
+    - I have over 10 years of experience successfully communicating brands’ values to their audience, whether it is a group of school aged children or a room of professionals. I pride myself on being adaptable and am confident I can express passion about HGS fundraisers in a variety of settings from simple public speaking to leveraging a complete digital presentation.
+    - I want to take the time to reassure you that my moving from Hamilton to Halifax for a one year maternity contract is not a reason to pass over my application. I am talented, educated and excited for the opportunity to experience a new region of Canada and more importantly join an exceptional team at HGS.
+    - Thank you for your time and consideration of my application.
+
+    - lines:
+      - Sincerely,
+      - April MacDonald
+
+- partial: footer
+  linkedin: "@aprilamacdonald"
+

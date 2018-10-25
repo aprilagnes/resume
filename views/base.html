@@ -16,7 +16,7 @@
 
   </head>
   <body>
-    <div class="wrapper">
+    <div class="wrapper {% if doc.wrapper_modifier %}wrapper--{{doc.wrapper_modifier}}{% endif %}">
       {% block main %}
         {% if doc.partials %}
           {% for field in doc.partials %}
