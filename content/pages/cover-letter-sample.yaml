@@ -3,6 +3,8 @@ $path: /{root}/cover-letter-sample # <--- CHANGE ME!!!!
 $order: -1
 description: April MacDonald
 
+wrapper_modifier: cover-letter
+
 partials:
 - partial: header
   name: APRIL MACDONALD

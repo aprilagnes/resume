@@ -3,6 +3,8 @@ $path: /{root}/cover-letter-satcc
 $order: -1
 description: April MacDonald
 
+wrapper_modifier: cover-letter
+
 partials:
   - partial: header
     name: APRIL MACDONALD
@@ -11,23 +13,28 @@ partials:
 
   - partial: paragraphs
     paragraphs:
-      - November 17th, 2018
+      - November 18th, 2018
 
-      - lines:
+      - css_class: paragraph-header
+        lines:
         - 510 Apprenticeship and Trade Cert Commission
         - Saskatchewan Youth Apprenticeship Program
         - SGEU Term 9 or more
         - Social Media & Marketing Consultant - COM001040
+        - ''
+        - ''
 
-
-      - I am excited to apply for the Social Media and Marketing Consultant role for the Saskatchewan Apprenticeship and Trade Certification Commission (SATCC) to assist in the promotion of the Saskatchewan Youth Apprenticeship (SYA) Program. My past experience in promotions at multiple levels has given me the skills and knowledge needed to succeed at this position.
-      - Currently as a Promotions Coordinator for Durham Radio I am responsible for the managing and monitoring the Social Media accounts for multiple radio stations. I schedule and monitor the success (or failure) of different promotions and develop strategies to determine the best course of action for future plans. Social Media is a small portion of my position. I also write promotional proposals for clients, plan and coordinate events, create artwork for contest, write and create newsletter campaigns and anything else needed to make our station shine.
-      - With over 10 years of experience communicating brand values I am confident in my ability to create excitement around the SYA Program. I believe programs like this are what help shape a province and make it stand out to prospective students who may or may not know what their future holds.
-      - I want to take the time to reassure you that my moving from Hamilton to back home to Saskatchewan for this position is not a reason to pass over my application as I am talented, educated and excited for the opportunity to be part of helping the future of my home province find their career paths as part of the SATCC team.
-      - Thank you for your time and consideration of my application.
-
-
+      - I am excited to apply for the Social Media and Marketing Consultant role for the SATCC to assist in the promotion of the SYA Program. My past experience in promotions at multiple levels has given me the skills and knowledge needed to excel in this position.
+      - Currently as a Promotions Coordinator for Durham Radio I am responsible for managing and monitoring the Social Media accounts for multiple radio stations. I schedule and monitor the performance of different promotions and develop strategies to determine the best course of action for future plans. I also write promotional proposals for clients, plan and coordinate events, create contest graphics as well as author newsletter campaigns. In addition, I handle any other task needed to make our station’s promotions shine.
+      - With over 8 years of experience communicating brand values I am confident in my ability to create excitement around the SYA Program. I believe programs like this are what help shape a province and make it stand out to prospective students who may or may not know what their future holds.
+      - I am looking forward to moving back home to Saskatchewan. I hope it coincides with the chance to help Saskatchewan Youth, the future of my home province, find their career paths as part of the SATCC team.
       - lines:
+        - Thank you for your time and consideration of my application.
+        - ''
+
+
+      - css_class: paragraph-signature
+        lines:
         - Sincerely,
         - April MacDonald
 
